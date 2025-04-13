@@ -39,6 +39,12 @@ This SMP is all about progression, competitive farming, fighting, trading, raidi
 
 ![ik](https://github.com/user-attachments/assets/558dd90f-f977-4ac4-92e4-87d2e82bd9b6)
 
+### Coarse Dirt:
+-8 Grass Blocks
+-1 Bone Meal
+
+![dffd](https://github.com/user-attachments/assets/75d10221-a133-4574-8d23-096b20cc520e)
+
 ## Netherite Template: 
 -1 Nether Star
 -8 Nether Bricks
