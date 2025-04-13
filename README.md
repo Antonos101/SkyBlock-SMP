@@ -1,4 +1,11 @@
 # SkyBlock-SMP
+
+Oak Leaves:
+-4 Dead Bushes
+
+![bush](https://github.com/user-attachments/assets/d42eb0bc-a30d-4438-83bf-99b784078ab6)
+
+
 Lava Bucket:
 -1 Bucket
 -2 Netherack
