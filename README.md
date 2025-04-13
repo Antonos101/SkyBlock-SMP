@@ -1,4 +1,12 @@
 # SkyBlock-SMP
+Lava Bucket:
+-1 Bucket
+-2 Netherack
+-2 Glowstone
+-2 Netherwart
+
+![dfg](https://github.com/user-attachments/assets/bec60490-402b-475a-93c1-c6fad14f232b)
+
 
 Crying Obsidian:
 -4 Obsidain
