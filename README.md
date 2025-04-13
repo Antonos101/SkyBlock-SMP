@@ -1,5 +1,8 @@
 # SkyBlocks-SMP
 
+## Info
+This SMP is all about progression, competitive farming, fighting, trading, raiding, socialising, and leaderboard climbing. This server allows PVP only if the 2 parties agree on it, while raiding someone's base is allowed no matter where it is, so hide your bases well. The world border is set to 2,000,000, so there is plenty of room, but the grass blocks stop at 5000 out from the world center.
+
 ## Commands:
 - kit help
 - shop
