@@ -1,6 +1,6 @@
 # SkyBlocks-SMP
 
-##Commands:
+## Commands:
 - kit help
 - shop
 - sell (e.g., hand 1)
