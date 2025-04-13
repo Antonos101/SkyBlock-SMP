@@ -1,4 +1,4 @@
-# SkyBlock-SMP
+# SkyBlocks-SMP
 
 
 
