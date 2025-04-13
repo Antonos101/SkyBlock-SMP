@@ -14,7 +14,7 @@ This SMP is all about progression, competitive farming, fighting, trading, raidi
 ### Oak Leaves:
 -4 Dead Bushes
 
-![bush](https://github.com/user-attachments/assets/d42eb0bc-a30d-4438-83bf-99b784078ab6)
+![2342](https://github.com/user-attachments/assets/697556c5-ce77-4569-8134-90e9a88a4e38)
 
 
 ### Lava Bucket:
