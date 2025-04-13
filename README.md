@@ -1,5 +1,10 @@
 # SkyBlocks-SMP
 
+##Commands:
+- kit help
+- shop
+- sell (e.g., hand 1)
+- pay
 
 ## Craftable Items:
 
