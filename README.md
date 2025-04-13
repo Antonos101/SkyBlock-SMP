@@ -45,7 +45,7 @@ This SMP is all about progression, competitive farming, fighting, trading, raidi
 
 ![dffd](https://github.com/user-attachments/assets/75d10221-a133-4574-8d23-096b20cc520e)
 
-## Netherite Template: 
+### Netherite Template: 
 -1 Nether Star
 -8 Nether Bricks
 
