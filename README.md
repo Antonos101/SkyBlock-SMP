@@ -16,4 +16,5 @@ Soul Sand:
 Netherite Template: 
 -1 Nether Star
 -8 Nether Bricks
+
 ![lk](https://github.com/user-attachments/assets/450e7f42-8b42-4013-8a71-b25d50c078b7)
