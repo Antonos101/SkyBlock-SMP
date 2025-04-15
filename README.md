@@ -8,6 +8,7 @@ This SMP is all about progression, competitive farming, fighting, trading, raidi
 - shop
 - sell (e.g., hand 1)
 - pay
+- worth (hand/inventory)
 
 ## Custom Recipes:
 These custom recipes allow the player to craft most Minecraft items, some of which are inaccessible in other skyblock maps.
