@@ -6,7 +6,7 @@ This SMP is all about progression, competitive farming, fighting, trading, raidi
 ## Commands:
 - kit help
 - shop
-- sell (e.g., hand 1)
+- sell (e.g., hand 1 / inventory)
 - pay
 - worth (hand/inventory)
 
