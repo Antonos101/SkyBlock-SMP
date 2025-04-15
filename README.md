@@ -10,7 +10,7 @@ This SMP is all about progression, competitive farming, fighting, trading, raidi
 - pay
 
 ## Custom Recipes:
-These custom recipes allow the player to craft most minecraft items, some unaccable in other skyblock maps.
+These custom recipes allow the player to craft most Minecraft items, some of which are inaccessible in other skyblock maps.
 
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/a268641a-e52c-47ac-91a7-78503daa6d9d)
 
